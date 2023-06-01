@@ -1,0 +1,25 @@
+.btn{
+    border: 0;
+    outline: none;
+    padding: 0;
+    font-size: 1.5rem;
+}
+
+
+.bilgi{
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 4 px;
+}
+
+.bilgi--success{
+    border: 1px solid green; 
+}
+
+.bilgi--error{
+    border: 1px solid red;
+}
+
+.far{
+    pointer-events: none;
+}
